@@ -1,4 +1,4 @@
-* **Overview:** The official name of Haalan's tinkers' guild representing inventors, tinkers, engineers, clockmakers, and artificers throughout Haalan. Its most prominent chapters are located in Izedel, Borgan, and Silverstone.
+* **Overview:** The official name of Haalan's tinkers' guild representing inventors, tinkers, engineers, clockmakers, and artificers throughout Haalan. Its most prominent chapters are located in [Izedel](Locations\Izedel.md), [Borgan](Locations\Borgan.md), and Silverstone.
 
 * **Benefits & Features:**
   
@@ -8,6 +8,6 @@
   
   * Guilds wield political power and will support members accused of a crime if innocence can be argued.
   
-  * Dues are 5 gp per month (already paid for the month of Vigus).
+  * Dues are 5 gp per month (already paid for the month of [Vigus](Calendar,%20Time,%20&%20Holidays.md)).
 
 * **Key NPC:** **[Professor Marchenko](NPCs\Professor%20Marchenko.md)**

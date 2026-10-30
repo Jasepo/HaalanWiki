@@ -2,9 +2,9 @@
 
 ## Gnomes of Haalan:
 
-* **Forest Gnomes:** From the region near Mivolan.
-* **Rock Gnomes:** From the region of Izedel.
-* **Deep Gnomes:** From underground regions of Mount Kazan and Umberdeep.
+* **Forest Gnomes:** From the region near [Mivolan](Locations\Mivolan.md).
+* **Rock Gnomes:** From the region of [Izedel](Locations\Izedel.md).
+* **Deep Gnomes:** From underground regions of [Mount Kazan](Locations\Mount%20Kazan.md) and [Umberdeep](The%20Umberdeep%20&%20Underground.md).
 * *Traits:* Intelligent, cunning, highly industrious, capable of working on projects for days without stopping to eat or sleep.
 
 ## Dragonborn & Kobolds

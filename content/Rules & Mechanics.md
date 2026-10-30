@@ -6,4 +6,4 @@
 
 **Magic Items & Potions:** Most magic items are found rather than bought due to high cost in metropolitan areas. Artificers can craft items, but finding wealthy buyers can be tough. Potions can be brewed if you have recipes, ingredients, and a workspace. Scrolls are rare but can be used by anyone.
 
-**Sample Duration:** Traveling from Luvel to Borgan takes about 32 days of travel, making extensive journeys something that must be carefully calculated.
+**Sample Duration:** Traveling from [Luvel](Locations\Luvel.md) to [Borgan](Locations\Borgan.md) takes about 32 days of travel, making extensive journeys something that must be carefully calculated.

@@ -1,1 +1,1 @@
-Watery abyss southwest of Silent Hollow containing countless shipwrecks.
+Watery abyss southwest of [Silent Hollow](Silent%20Hollow.md) containing countless shipwrecks.
