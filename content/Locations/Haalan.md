@@ -1,5 +1,7 @@
 Haalan, a nation born from a thousand years of war. Its size and scale are modeled after real-world Australia, featuring six diverse geographic terrains: hot deserts in the east ([Luvel](Luvel.md)), mountain ranges in the south ([Izedel](Izedel.md)), grasslands in the northeast ([Mivolan](Mivolan.md)), forests west of Balchur Basin ([Borgan](Borgan.md)), swamp lands in the far west ([Drabasha](Drabasha.md)), and tropical coastal islands in the north ([Regalla](Regalla.md)).
 
+![Haalan World Map (V1) - Divide.png](..\Images\Haalan%20World%20Map%20%28V1%29%20-%20Divide.png)
+
 * **Current Date & Time:** The campaign begins on **Sulday, the 7th of Vigus 275 A.W.** (After War), just six days after First Morning, at the beginning of a new year.
 
 * **The World Right Now:**
