@@ -1,0 +1,1 @@
+**Overview:** A northern power with a strong regional identity and forest gnomes origin. Its leaders are widely believed to have ambitions beyond their current position within the union and watch Borgan closely.
