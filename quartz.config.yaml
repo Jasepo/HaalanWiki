@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: Jasepo.github.io
+  baseUrl: "Jasepo.github.io/quartz"
   ignorePatterns:
     - private
     - templates
