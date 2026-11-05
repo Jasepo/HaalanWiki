@@ -28,4 +28,4 @@
 * **Political Stance:** Politically neutral, maintaining that [Haalan](Haalan.md) is most prosperous when trade and regional stability are preserved.
 * **Geographic Control:** Controls the **Belcher Pass**, a critical mountain water route opening into the **Belcher Basin**, serving as a primary transit lane across the continental split.
 
-"Luvel kind of controls that area where the water passage goes through, and that is probably the easiest and quickest way to reach [Borgan](Borgan.md) all the way from the east." - Patryck Session 0
+"Luvel kind of controls that area where the water passage goes through, and that is probably the easiest and quickest way to reach [Borgan](Borgan.md) all the way from the east." - Patryk Session 0

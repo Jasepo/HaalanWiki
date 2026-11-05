@@ -72,7 +72,7 @@ The six crowns that became one:
 
 - **[[Corben Wigglehand]]** — rock gnome artificer, wanted inventor, seeker of the truth
 - **[[Thresher]]** — former Black Lantern, rogue of the Shallows
-- **[[Tripp]]** — cleric of the House of Open Pages
+- **[[Tripp]]** — Altruistic Cleric that volunteered at the House of Open Pages
 
 ***
 
@@ -92,7 +92,9 @@ The six crowns that became one:
 - **[[Red Lung]]** — the plague spreading across Haalan
 - **[[Active Quests]]** — open threads and obligations
 
+
+![[Images/Player1.0.pdf]]
 ***
 
 *Last updated: Vigus 275 A.W.*
-*A wiki maintained by the party, for the party.*
+*A wiki maintained by the party, for the party. ☭*
