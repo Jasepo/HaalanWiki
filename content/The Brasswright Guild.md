@@ -1,4 +1,4 @@
-* **Overview:** The official name of Haalan's tinkers' guild representing inventors, tinkers, engineers, clockmakers, and artificers throughout Haalan. Its most prominent chapters are located in [Izedel](Locations\Izedel.md), [Borgan](Locations\Borgan.md), and Silverstone.
+* **Overview:** The official name of [Haalan](Locations\Haalan.md)'s tinkers' guild representing inventors, tinkers, engineers, clockmakers, and artificers throughout [Haalan](Locations\Haalan.md). Its most prominent chapters are located in [Izedel](Locations\Izedel.md), [Borgan](Locations\Borgan.md), and Silverstone.
 
 * **Benefits & Features:**
   

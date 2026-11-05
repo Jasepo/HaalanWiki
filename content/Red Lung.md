@@ -1,3 +1,3 @@
-**The Red Lung** is a severe respiratory disease affecting individuals in [Haalan](Locations\Haalan.md). Symptoms include a persistent, raspy cough and significant physical strain.
+A natural, non-magical respiratory illness active in [Haalan](Locations\Haalan.md) for approximately 9 months since [Valdemar Pott's](NPCs\Valdemar%20Potts.md) Death [(Sulday, the 7th of Vigus, 275 A.W.)](Calendar,%20Time,%20&%20Holidays.md). It causes severe breathing strain, coughing blood, and death. Due to overwhelmed healing resources, fatalities are high, driving growth in the forbidden worship of *Velshara*.
 
-It is suspected that [Valdemar Potts](NPCs\Valdemar%20Potts.md) may have died because of this disease.
+* **Impact & Care:** Though treatable with divine healing magic, the rapid spread of the disease overwhelms available clerics and priests, leading to high mortality rates in communities lacking access to medical care.

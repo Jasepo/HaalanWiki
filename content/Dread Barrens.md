@@ -1,0 +1,1 @@
+"The best way to get to [Mivolan](Locations\Mivolan.md) would be taking a ship instead of traveling through the [Dread Barrens](Dread%20Barrens.md) and dealing with all the wilderness of [Mivolan](Locations\Mivolan.md)" - Patryck Session 0

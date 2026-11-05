@@ -13,5 +13,9 @@
   * **Frostfall** (Town)
   
   * **Sutland** (Town)
+  
+  * **Iron Cross** (Town)
 
-* **Culture & Symbols:** Outward-looking toward the water. Its ancient coat of arms depicts three fish (predating Haalan, symbolizing marine cultural background). Historically the center of worship of Haalan's Moon God ([Selvara](..\Gods,%20Faith,%20&%20The%20Forsaken.md)), associated with tides, navigation, sailors, and fishermen.
+* **Culture & Symbols:** Outward-looking toward the water. Its ancient coat of arms depicts three fish (predating [Haalan](Haalan.md), symbolizing marine cultural background). Historically the center of worship of [Haalan](Haalan.md)'s Moon God ([Selvara](..\Gods,%20Faith,%20&%20The%20Forsaken.md)), associated with tides, navigation, sailors, and fishermen.
+
+* **Political Status:** Functions as an ambitious city-state rather than a unified nation, acting alongside [Mivolan](Mivolan.md) as political opposition to [Borgan](Borgan.md).
