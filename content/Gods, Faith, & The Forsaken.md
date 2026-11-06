@@ -25,10 +25,10 @@
 
 * ***Ashratul* (The King Beneath):** Embodies absolute control, domination, and the belief that freedom is a mistake. Followers believe peace requires unquestioning obedience to a single ruler, attracting tyrants and conquerors. Depicted as a massive orc king in black iron armor with a prison-bar crown, hidden face, and an immense scepter of absolute dominion. Ancient carvings show him seated above kneeling subjects.
 
-* ***Valshara* (The Mother of Worms):** Embodies decay, consumption, and inevitable corruption. Her followers teach that death and decomposition are the only truths, viewing resistance to disease or decay as a violation of fundamental order. Her forbidden worship has grown amid recent suffering. Visually described with long, thin fingers, rotten burial garments, and worms crawling through her hair and skin, yet bearing a strangely tender, maternal expression.
+* ***Velshara* (The Mother of Worms):** Embodies decay, consumption, and inevitable corruption. Her followers teach that death and decomposition are the only truths, viewing resistance to disease or decay as a violation of fundamental order. Her forbidden worship has grown amid recent suffering. Visually described with long, thin fingers, rotten burial garments, and worms crawling through her hair and skin, yet bearing a strangely tender, maternal expression.
 
 * ***Nhal* (The Void):** The most poorly understood and least known of the Forsaken, accounts conflict, and much of its history was deliberately erased following the god's defeat. Sculptures depict a robed humanoid figure with a deliberately damaged face. Scholars suspect it was added later and is not an original deity.
 
 #### The Seventh God Legend
 
-* **Disputed Origins:** Ancient texts conflict on whether there were originally six or seven gods. Legends claim a seventh god, debated as either Ashratul or Valshara. created the disruption and sparked the ancient wars. Due to contradictory historical accounts, modern society largely views these divine narratives as old mythology.
+* **Disputed Origins:** Ancient texts conflict on whether there were originally six or seven gods. Legends claim a seventh god, debated as either Ashratul or Velshara. created the disruption and sparked the ancient wars. Due to contradictory historical accounts, modern society largely views these divine narratives as old mythology.

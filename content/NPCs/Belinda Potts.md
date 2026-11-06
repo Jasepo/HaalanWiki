@@ -6,7 +6,7 @@ Has a Twin Brother called [Byron](Byron.md)
 
 ## Message to Corben about Valdemar's death
 
-Dear Corben,
+Dear [Corben](..\PCs\Corben%20Wigglehand.md),
 
 I wish I were writing to you under happier circumstances.
 

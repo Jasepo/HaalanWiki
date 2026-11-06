@@ -1,4 +1,4 @@
-* **Overview:** A specialized faction headquartered in Silverstone. Their primary operations take place within the [mountain ranges](Locations\Mount%20Kazan.md), focusing on combat and holding back monsters emerging from the *Umberdeep*.
+* **Overview:** A specialized faction headquartered in Silverstone. Their primary operations take place within the [mountain ranges](Locations\Mount%20Kazan.md), focusing on combat and holding back monsters emerging from the [Umberdeep](The%20Umberdeep%20&%20Underground.md).
 
 * **Public Perception:** Widely viewed by outsiders as a dark, shady, and mysterious organization.
 
@@ -8,4 +8,4 @@
 
 * **Insignia:** Members wear a distinctive black ring.
 
-* **Notable Members:** *Thresher* (former member).
+* **Notable Members:** [Thresher](PCs\Thresher.md) (former member).

@@ -1,4 +1,4 @@
-* **Overview:** A vast coastal-desert region famous for commerce and its control of *Balchur Pass*, the great water route through the central mountains. Luvel is industrious, practical, and politically neutral.
+* **Overview:** A vast coastal-desert region famous for commerce and its control of Balchur Pass, the great water route through the central mountains. Luvel is industrious, practical, and politically neutral.
 
 * **Starting Location:** The adventure begins here in Luvel.
 
@@ -16,7 +16,7 @@
   
   * **The Light Ward**: which is the government offices, ports, civic institutions, and educational facilities. "The House of Open Pages" is in the Light Ward district
 
-* **Notable Landmarks:** *Balchur Pass*, Curlew Dunes Memory Gardens (where [Valdemar](..\NPCs\Valdemar%20Potts.md)'s funeral is held).
+* **Notable Landmarks:** Balchur Pass, Curlew Dunes Memory Gardens (where [Valdemar](..\NPCs\Valdemar%20Potts.md)'s funeral is held).
 
 **Dread Barrens:** Scorching desert near Luvel featuring old ruins, battlefields, giant bugs, jackals, and surface-roaming Bulettes.
 
@@ -26,6 +26,6 @@
 
 * **Major Exports:** Alcohol (rum, tequila, vodka), weapons, spices (dried peppers, cumin, coriander), ceramics, and pottery. Trade is primarily conducted with [Izedel](Izedel.md) and [Regalla](Regalla.md) via established seafaring routes.
 * **Political Stance:** Politically neutral, maintaining that [Haalan](Haalan.md) is most prosperous when trade and regional stability are preserved.
-* **Geographic Control:** Controls the **Belcher Pass**, a critical mountain water route opening into the **Belcher Basin**, serving as a primary transit lane across the continental split.
+* **Geographic Control:** Controls the **Balchur Pass**, a critical mountain water route opening into the **Belchur Basin**, serving as a primary transit lane across the continental split.
 
 "Luvel kind of controls that area where the water passage goes through, and that is probably the easiest and quickest way to reach [Borgan](Borgan.md) all the way from the east." - Patryk Session 0

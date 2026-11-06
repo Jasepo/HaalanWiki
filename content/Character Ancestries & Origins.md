@@ -15,10 +15,9 @@
 ## Tieflings & Aasimar
 
 * **Origins & Superstitions:** Either can be born to parents of any ancestry. They were historically interpreted as omens, Aasimar as favorable signs and Tieflings as troubling ones. These superstitions persist even in secular [Haalan](Locations\Haalan.md), though they say nothing about an individual's actual morality.
+* **Other Ancestries:** Dragonborn & Kobolds, Tieflings & Aasimar, Goliaths (Hrothmar), Tabaxi (Marakai), Aarakocra (Caelora), and Fey/Satyr/Harengons ([Everweald](The%20Six%20Realms.md)).
 
-* **Other Ancestries:** Dragonborn & Kobolds, Tieflings & Aasimar, Goliaths (Hrothmar), Tabaxi (Marakai), Aarakocra (Caelora), and Fey/Satyr/Harengons (Everweald).
-  
-  ## Peoples from Beyond Haalan & Other Realms
+## Peoples from Beyond Haalan & Other Realms
 
 * **Goliaths:** Originate from **Hrothmar**, the frozen northern homeland of giants.
 
