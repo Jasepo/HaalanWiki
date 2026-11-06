@@ -2,9 +2,7 @@
 title: Haalan Campaign Wiki
 ---
 
-# ✦ Haalan
-
-*Six crowns became one. A thousand years of silence.*
+*✦ Six crowns became one. A thousand years of silence.*
 
  > 
  > **This is Haalan. And its story is about to begin.**
@@ -93,7 +91,7 @@ The six crowns that became one:
 * **[Red Lung](Red%20Lung.md)** — the plague spreading across Haalan
 * **[Active Quests](Active%20Quests.md)** — open threads and obligations
 
-[Images/Player1.0.pdf](Images\Player1.0.pdf)
+[Player1.0.pdf](Images\Player1.0.pdf)
 
 ---
 
