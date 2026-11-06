@@ -2,7 +2,7 @@
 
 Though [Valdemar](Valdemar%20Potts.md) has since passed away, Belinda continues to run the shop on her own. Because his collection was so immense, even after all these years she still hasn't managed to sell through it all, making her store an essential stop for travelers looking for rare, unusual, and one-of-a-kind oddities.
 
-Has a Twin Brother called [Byron](Byron.md)
+Has a twin brother called [Byron](Byron.md)
 
 ## Message to Corben about Valdemar's death
 

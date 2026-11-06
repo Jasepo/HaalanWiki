@@ -27,4 +27,4 @@
 
 * **Fey (Fairies, Satyrs, Harengons):** Originate from the **[Everweald](The%20Six%20Realms.md)**.
 
-* **Harengons:** Rabbit-folk whose ancestors, people believe, originally migrated from the [Everwild](The%20Six%20Realms.md) long ago.
+* **Harengons:** Rabbit-folk whose ancestors, people believe, originally migrated from the [Everweald](The%20Six%20Realms.md) long ago.
