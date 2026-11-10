@@ -1,1 +1,1 @@
-**Overview:** Operator of the _Broken Shillelagh_ bar, located in the [[Locations/Luvel|Shallows]] (port district) of [[Luvel]]. Landlord and associate of Moose ([[Thresher]]), who lives upstairs.
+**Overview:** Operator of the *Broken Shillelagh* bar, located in the [Shallows](..\Locations\Luvel.md) (port district) of [Luvel](..\Locations\Luvel.md). Landlord and associate of Moose ([Thresher](..\PCs\Thresher.md)), who lives upstairs.

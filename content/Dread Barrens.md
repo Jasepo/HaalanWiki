@@ -1,1 +1,0 @@
-"The best way to get to [[Locations/Mivolan|Mivolan]] would be taking a ship instead of traveling through the [[Dread Barrens]] and dealing with all the wilderness of [[Locations/Mivolan|Mivolan]]" - Patryk Session 0

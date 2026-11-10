@@ -1,1 +1,0 @@
-**Overview:** Twin brother of [[Belinda Potts]]. He lives in [[Luvel]] and is present at the funeral of [[Valdemar Potts]] at the [[Curlew Dunes Memory Gardens]], supporting his sister.

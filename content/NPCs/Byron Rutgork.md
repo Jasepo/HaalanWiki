@@ -1,0 +1,1 @@
+**Overview:** He is the battle-scarred twin brother of [Belinda Potts](Belinda%20Potts.md). He lives in [Luvel](..\Locations\Luvel.md) and is present at the funeral of [Valdemar Potts](Valdemar%20Potts.md) at *Curlew Dunes Memory Gardens*, supporting his sister.

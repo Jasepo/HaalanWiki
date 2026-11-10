@@ -1,0 +1,1 @@
+A gregarious green dragonborn merchant from the island kingdom of [Regalla](..\Locations\Regalla.md) who operates an overseas trading vessel between [Regalla](..\Locations\Regalla.md) and [Luvel](..\Locations\Luvel.md). An old trade partner of [Valdemar Potts](Valdemar%20Potts.md) attending his funeral wake before sailing home.

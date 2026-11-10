@@ -1,0 +1,1 @@
+An elven courier hailing from Windvale in [Mivolan](..\Locations\Mivolan.md), present as a guest at [Valdemar](Valdemar%20Potts.md)'s wake. She offered hospitality should travelers visit Windvale, while sternly cautioning them never to pass through the haunted [Shaulding Woods](..\Locations\Shaulding%20Woods.md).

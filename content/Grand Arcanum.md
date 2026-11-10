@@ -1,0 +1,1 @@
+* **Overview:** A massive university for higher learning in all schools of magic located in [Borgan](Locations\Borgan.md). It is the most prestigious academic institution in all of [Haalan](Locations\Haalan.md); Patryk described it as making institutions like Hogwarts look like a community college.

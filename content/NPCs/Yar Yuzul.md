@@ -1,0 +1,1 @@
+**Overview:** An elderly, broad-shouldered orc priest with stooped posture, worn tusks, modest ceremonial robes, and a wooden staff used as a walking cane. A fixture of [the House of Open Pages](..\Locations\Luvel.md) in [Luvel](..\Locations\Luvel.md)'s Light Ward, he presides over funerals at [Curlew Dunes Memory Gardens](..\Locations\Luvel.md) with weary, gentle philosophy.

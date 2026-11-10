@@ -1,0 +1,1 @@
+An energetic, flour-dusted halfling baker and proprietor of The Rolling Pin bakery in the [Sunmarket](..\Locations\Luvel.md), assisted by several identical halfling kin. Cheerful, proud of his craft, and an old friend of [Valdemar](Valdemar%20Potts.md) and [Belinda Potts](Belinda%20Potts.md).
