@@ -81,11 +81,7 @@ The six crowns that became one:
 * **[Caldeer](NPCs/Caldeer.md)** — operator of the *Broken Shillelagh*
 * **[Professor Marchenko](NPCs/Professor%20Marchenko.md)** — Firbolg artificer, ally to Corben
 * **[Yar Yuzul](NPCs/Yar%20Yuzul.md)** — elderly orc priest of the House of Open Pages
-* **[Fenwick Thistledown](NPCs/Fenwick%20Thistledown.md)** — halfling baker of The Rolling Pin
-* **[Madame Saffira](NPCs/Madame%20Saffira.md)** — spice merchant and herbalist of The Saffron Serpent
-* **[Bess Bayleaf](NPCs/Bess%20Bayleaf.md)** — elven courier from Windvale in Mivolan
-* **[Viridian Stone](NPCs/Viridian%20Stone.md)** — green dragonborn merchant from Regalla
-* **[Veyra](NPCs/Veyra.md)** — elusive scholar and recipient of the royal parcel
+* **[Mistress Veyra](NPCs/Mistress%20Veyra.md)** — elusive scholar and recipient of the royal parcel
 
 ---
 
