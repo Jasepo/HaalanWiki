@@ -34,7 +34,7 @@
 
 * **Butterbarrel’s Best:** A dairy and livestock stall managed by a hill dwarf, Dorrin; sells goat milk, assorted artisan cheeses, and features "award-winning" show goats (e.g., Malek and Eddie).
 
-* Just Mentioned: The Gilded Quill (bookstore/cartography shop run by Eldrin Vale), Butcher’s Block (meats run by Grand Amaro), and Root & Remedy (herbalist run by Eliswyn Mosswhipper).
+* ***Just Mentioned:*** The Gilded Quill (bookstore/cartography shop run by Eldrin Vale), Butcher’s Block (meats run by Grand Amaro), and Root & Remedy (herbalist run by Eliswyn Mosswhipper).
 
 #### Economy & Exports
 
