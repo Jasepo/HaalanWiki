@@ -1,1 +1,0 @@
-A sharp-witted spice merchant and herbalist running The Saffron Serpent stall in the [Sunmarket](..\Locations\Luvel.md). Sells exotic culinary spices, medicinal roots, and botanical oddities; maintains an easy, familiar banter with [Thresher](..\PCs\Thresher.md).

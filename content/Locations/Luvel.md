@@ -24,9 +24,9 @@
 
 **The Sunmarket:**
 
-* **The Rolling Pin:** Renowned bakery operated by halfling baker [Fenwick Thistledown](..\NPCs\Fenwick%20Thistledown.md) and his lookalike kin; famous for artisan breads, cornbread, and fresh pastries.
+* **The Rolling Pin:** Renowned bakery operated by halfling baker Fenwick Thistledown and his lookalike kin; famous for artisan breads, cornbread, and fresh pastries.
 
-* **The Saffron Serpent:** A spice and herb pavilion managed by [Madame Saffira](..\NPCs\Madame%20Saffira.md), carrying exotic herbs, nightshade, Canis root, moon sugar, and lavender.
+* **The Saffron Serpent:** A spice and herb pavilion managed by Madame Saffira, carrying exotic herbs, nightshade, Canis root, moon sugar, and lavender.
 
 * **The Black Kettle:** A popular coffeehouse and community hub established by Garrick Blackbrew; specializes in triple-shot espressos, cold brews, and imported teas.
 

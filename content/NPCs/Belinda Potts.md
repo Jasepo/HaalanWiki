@@ -4,7 +4,7 @@ Though [Valdemar](Valdemar%20Potts.md) has since passed away, Belinda continues 
 
 Has a twin brother called [Byron Rutgork](Byron%20Rutgork.md)
 
-**Recent Events (Session 1):** [Valdemar](Valdemar%20Potts.md) was successfully laid to rest. Belinda hosted the memorial gathering at her two-story sandstone home in the Crossways (adorned with green shutters, flower pots, and a brass lion-head knocker). [Corben](..\PCs\Corben%20Wigglehand.md) gifted her an enclosed reading display case with his transcription of *The Legend of the Three Fish*. Belinda sent the party to the [Sunmarket](..\Locations\Luvel.md) for ingredients to bake [Valdemar](Valdemar%20Potts.md)’s favorite tart and lavender dumplings.
+**Recent Events (Session 1):** [Valdemar](Valdemar%20Potts.md) was successfully laid to rest. Belinda hosted the memorial gathering at her two-story sandstone home in the [Crossways](..\Locations\Luvel.md) (adorned with green shutters, flower pots, and a brass lion-head knocker). [Corben](..\PCs\Corben%20Wigglehand.md) gifted her an enclosed reading display case with his transcription of *The Legend of the Three Fish*. Belinda sent the party to the [Sunmarket](..\Locations\Luvel.md) for ingredients to bake [Valdemar](Valdemar%20Potts.md)’s favorite tart and lavender dumplings.
 
 ## Message to Corben about Valdemar's death
 
@@ -18,7 +18,7 @@ We will be laying [Valdemar](Valdemar%20Potts.md) to rest here in [Luvel](..\Loc
 
 I think it would have meant the world to [Valdemar](Valdemar%20Potts.md) to know that the people who mattered to him were together one last time on his behalf.
 
-The funeral will be held on [Sulday the 7th of Vigus](..\Calendar,%20Time,%20&%20Holidays.md) at Curlew Dunes Memory Gardens. There will be food and drink afterward at our humble home for anyone who wishes to stay and share a memory of him.
+The funeral will be held on [Sulday the 7th of Vigus](..\Calendar,%20Time,%20&%20Holidays.md) at [Curlew Dunes Memory Gardens](..\Locations\Luvel.md). There will be food and drink afterward at our humble home for anyone who wishes to stay and share a memory of him.
 
 Please travel safely,
 

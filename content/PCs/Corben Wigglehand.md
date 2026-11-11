@@ -60,9 +60,9 @@ For my spells, I have 2 Artificer cantrips, 2 Wizard cantrips from Magic Initiat
 
 **The Fixer of [Izedel](..\Locations\Izedel.md)**
 
-[Valdemar Potts](..\NPCs\Valdemar%20Potts.md) had been wandering for three months. He had crossed the Everweald, skirted the edge of the [Umberdeep](..\The%20Umberdeep%20&%20Underground.md), and traded half his rations for a strange, broken trinket from a dying sailor in a port town. The sailor had called it a "Moon-lighter", a clockwork navigational device from the old days, said to be able to pinpoint the hidden temples of the Moon God.
+[Valdemar Potts](..\NPCs\Valdemar%20Potts.md) had been wandering for three months. He had crossed the [Everweald](..\The%20Six%20Realms.md), skirted the edge of the [Umberdeep](..\The%20Umberdeep%20&%20Underground.md), and traded half his rations for a strange, broken trinket from a dying sailor in a port town. The sailor had called it a "Moon-lighter", a clockwork navigational device from the old days, said to be able to pinpoint the hidden temples of the [Moon God](..\Gods,%20Faith,%20&%20The%20Forsaken.md).
 
-[Valdemar](..\NPCs\Valdemar%20Potts.md) didn't care about the Moon God. He cared about stories. And this little broken thing had a story written all over it.
+[Valdemar](..\NPCs\Valdemar%20Potts.md) didn't care about the [Moon God](..\Gods,%20Faith,%20&%20The%20Forsaken.md). He cared about stories. And this little broken thing had a story written all over it.
 
 But first, he needed to get it fixed.
 
