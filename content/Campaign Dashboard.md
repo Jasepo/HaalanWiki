@@ -12,9 +12,9 @@
   
   * **Marcus Veyra:** A shipping merchant operating out of the [Luvel](Locations\Luvel.md) docks (Lead via [Professor Marchenko](NPCs\Professor%20Marchenko.md)).
   
-  * **Mara Veyra:** Owner of the shop [Antiques and Curiosities](Locations\Luvel.md) in the [Crossways](Locations\Luvel.md) (Lead via Nixie).
+  * **Mara Veyra:** Owner of the shop [Antiques and Curiosities](Locations\Luvel.md) in the [Crossways](Locations\Luvel.md) (Lead via [Nixie](Session%20Summaries\2026-11-13.md)).
   
-  * **Mirabel Veyra:** A retired scholar who previously studied at the [Grand Arcanum](Grand%20Arcanum.md) in [Borgan](Locations\Borgan.md) (Lead via Nixie).
+  * **Mirabel Veyra:** A retired scholar who previously studied at the [Grand Arcanum](Grand%20Arcanum.md) in [Borgan](Locations\Borgan.md) (Lead via [Nixie](Session%20Summaries\2026-11-13.md)).
 
 * **Current Leads on the silver coin:**
   

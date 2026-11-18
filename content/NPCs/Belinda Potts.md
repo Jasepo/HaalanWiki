@@ -2,7 +2,7 @@
 
 Though [Valdemar](Valdemar%20Potts.md) has since passed away, Belinda continues to run the shop on her own. Because his collection was so immense, even after all these years she still hasn't managed to sell through it all, making her store an essential stop for travelers looking for rare, unusual, and one-of-a-kind oddities.
 
-Has a twin brother called [Byron Rutgork](Byron%20Rutgork.md)
+She has a twin brother called [Byron Rutgork](Byron%20Rutgork.md)
 
 **Recent Events (Session 1):** [Valdemar](Valdemar%20Potts.md) was successfully laid to rest. Belinda hosted the memorial gathering at her two-story sandstone home in the [Crossways](..\Locations\Luvel.md) (adorned with green shutters, flower pots, and a brass lion-head knocker). [Corben](..\PCs\Corben%20Wigglehand.md) gifted her an enclosed reading display case with his transcription of *The Legend of the Three Fish*. Belinda sent the party to the [Sunmarket](..\Locations\Luvel.md) for ingredients to bake [Valdemar](Valdemar%20Potts.md)’s favorite tart and lavender dumplings.
 
