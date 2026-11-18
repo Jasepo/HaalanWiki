@@ -6,17 +6,17 @@
   
   * **The Dustward:** Originally the portion of Luvel facing the open desert; poorer construction and blowing sand made it undesirable. Now synonymous with the city's poor quarter (the working-class neighborhoods, workshops, and modest businesses).
   
-  * **The Shallows:** The poorest district in Luvel near low-lying waterfront areas, historically prone to flooding and sewage problems. You can find the Broken Shillelagh here, operated by [Caldeer](..\NPCs\Caldeer.md), and that's where [Thresher](..\PCs\Thresher.md) lives.
+  * **The Shallows:** The poorest district in Luvel near low-lying waterfront areas, historically prone to flooding and sewage problems. You can find the *Broken Shillelagh* here, operated by [Caldeer](..\NPCs\Caldeer.md), and that's where [Thresher](..\PCs\Thresher.md) lives.
   
-  * **The Crossways:** The market and commercial district featuring the massive Sunmarket shopping center in the middle. Most merchants live here. [Belinda Potts](..\NPCs\Belinda%20Potts.md) lives here. And [The Brasswright Guild](..\The%20Brasswright%20Guild.md) is also there, where [Professor Marchenko](..\NPCs\Professor%20Marchenko.md) resides.
+  * **The Crossways:** The market and commercial district featuring the massive Sunmarket shopping center in the middle. Most merchants live here. [Belinda Potts](..\NPCs\Belinda%20Potts.md) lives here, and [The Brasswright Guild](..\The%20Brasswright%20Guild.md) is also located here, where [Professor Marchenko](..\NPCs\Professor%20Marchenko.md) resides. Notable businesses include *The Gilded Rose* (an upscale brothel/lounge featuring pink stained-glass windows and a gilded rose metal sign) and *Antiques and Curiosities* (a weathered two-story antique shop sandwiched between a cobbler and a bookbinder).
   
-  * **The Heights**: where wealthy residents and influential families live.
+  * **The Heights**: Where wealthy residents and influential families live.
   
-  * **The Stonewall**: the ordinary residential neighborhoods
+  * **The Stonewall**: The ordinary residential neighborhoods.
   
-  * **The Light Ward**: which is the government offices, ports, civic institutions, and educational facilities. "The House of Open Pages" is in the Light Ward district
+  * **The Light Ward**: The government offices, ports, civic institutions, and educational facilities. It is home to *The House of the Open Pages*, a modest three-story building marked by blue doors painted with an open book and rising sun. The building features ivy, window flower boxes, a courtyard (with a persistent pigeon problem), a public library, and dormitory cots.
 
-**[Dread Barrens](Dread%20Barrens.md):** Scorching desert near Luvel featuring old ruins, battlefields, giant bugs, jackals, and surface-roaming Bulettes.
+**[Dread Barrens](Dread%20Barrens.md):** Scorching desert near Luvel.
 
 **Balchur Pass:** Major geographic mountain water route controlled by Luvel.
 

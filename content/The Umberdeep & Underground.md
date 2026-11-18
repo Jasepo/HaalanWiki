@@ -10,4 +10,4 @@
 
 * **Physical Connection:** Accessible from the surface by digging deep down.
 * **Entrances:** Most major entrances are known and protected to prevent surface monster incursions, though new openings emerge over time.
-* **Notable Locations:** A major entrance is located inside [Mount Kazan](Locations\Mount%20Kazan.md), with additional rumored openings in the harsh desert of the [Barrens](Locations\Dread%20Barrens.md) north of [Luvel](Locations\Luvel.md).
+* Notable Locations: A major entrance is located inside [Mount Kazan](Locations\Mount%20Kazan.md), with a newly discovered breach beneath [The Brasswright Guild](The%20Brasswright%20Guild.md) in [Luvel](Locations\Luvel.md).

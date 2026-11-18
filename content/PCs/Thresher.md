@@ -5,3 +5,7 @@
 * Appearance & Gear: Wears woven leather lamellar chest armor, tan and dark red robes, scimitar on the left hip, and a customized firearm above it. Has glowing red arcane tattoos on his right hand and fingers when manipulating magic.
 
 * Habits & History: Chain-smokes; loves booze and [Umberdeep](..\The%20Umberdeep%20&%20Underground.md) mushroom tea; works as an informal investigator in [Luvel](..\Locations\Luvel.md) (often following unfaithful spouses to pay rent at the *Broken Shillelagh*). Was personally saved and resettled in [Luvel](..\Locations\Luvel.md) by [Valdemar Potts](..\NPCs\Valdemar%20Potts.md). Left 5 gold pieces hidden in [Valdemar](..\NPCs\Valdemar%20Potts.md)’s [Mivolan](..\Locations\Mivolan.md) journal as a silent tribute to [Belinda](..\NPCs\Belinda%20Potts.md).
+
+Carries a specialized firearm configured to transform into a silent, deployable hand crossbow. Maintains intimate contacts at [The Gilded Rose](..\Locations\Luvel.md) (the goblin sex worker [Nixie](..\Session%20Summaries\2026-11-13.md)) and a history with the Tabaxi smuggler [Rys](..\Session%20Summaries\2026-11-13.md).
+
+Is being tracked by an unknown woman in [Luvel](..\Locations\Luvel.md).
