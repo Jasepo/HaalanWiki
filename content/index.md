@@ -24,7 +24,7 @@ Welcome to the **Haalan Campaign Wiki** — a player-facing reference for the wo
 **Cosmology & Culture**
 
 *   **[Gods, Faith, & The Forsaken](Gods,%20Faith,%20%26%20The%20Forsaken.md)** — The six original gods, the Forsaken, and the seventh-god legend.
-*   **[Calendar, Time, & Holidays](Calendar,%20Time,%20%26%20Holidays.md)** — The Haalani calendar, holy days, and eras.
+*   **[[Calendar, Time, & Holidays]]** — The Haalani calendar, holy days, and eras.
 *   **[Character Ancestries & Origins](Character%20Ancestries%20%26%20Origins.md)** — Ancestries native to Haalan and peoples from beyond.
 
 **Geography & Nature**
