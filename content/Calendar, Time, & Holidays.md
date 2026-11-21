@@ -30,7 +30,8 @@ The [[Campaign Dashboard|campaign]] begins on **Sulday, the 7th of Vigus 275 A.W
 | **5th Progus** | **6th Lorus** | **7th Tempus** | **8th Turmus** |
 | **9th Cerpus** | **10th Accus** | **11th Addus** | **12th Vulpus** |
 | **13th Galus** | | | |
-<br>
+
+
 ## Holidays (not a complete list)
 - **Vigus 1 – First Morning:** [[Locations/Haalan|Haalan]]'s New Year Celebration, associated with a fresh start.
 - **Demus 28 – Haali:** Celebration of Pride, associated with rights, visibility, and acceptance of everyone.
