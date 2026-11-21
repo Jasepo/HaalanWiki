@@ -1,8 +1,7 @@
-
 Haalan is a nation born from a thousand years of war. For thousands of years, six societies divided by mountains, rivers, deserts, and seas fought continuously while the [[Gods, Faith, & The Forsaken|gods]] watched. Armies marched across [[Locations/Borgan|Borgan]] beneath gold and crimson banners, warships burned along the shores of [[Locations/Izedel|Izedel]], and the deserts of [[Locations/Luvel|Luvel]] swallowed the bones of soldiers. Forests were felled, cities were burned, and generations knew nothing but war.
 
 > [!success] The Unification (Year 0 A.W.)
-> _✦_ *Six crowns became one. A thousand years of silence.*
+> *Six crowns became one. A thousand years of silence.*
 > Eventually, the kingdoms grew tired of burying their own children. Representatives of the six powers gathered in [[Locations/Borgan|Borgan]], laid down their weapons, and brought six crowns together so six nations became one, forming a new kingdom: **Haalan**.
 
 ---

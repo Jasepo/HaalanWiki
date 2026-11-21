@@ -1,11 +1,12 @@
-![Thresher Token.png](..\Images\Thresher%20Token.png)
 
-**Overview:** A seasoned rogue and former member of the [Black Lanterns](..\Black%20Lanterns.md) stationed in [Luvel](..\Locations\Luvel.md). He resides in the upstairs quarters of the *Broken Shillelagh* bar in the [Shallows district](..\Locations\Luvel.md), operated by [Caldeer](..\NPCs\Caldeer.md). On the back of one of his hands he has the [Black Lantern](..\Black%20Lanterns.md) symbol of his former [brotherhood](..\Black%20Lanterns.md).
+![[Thresher Token.png]]
 
-* Appearance & Gear: Wears woven leather lamellar chest armor, tan and dark red robes, scimitar on the left hip, and a customized firearm above it. Has glowing red arcane tattoos on his right hand and fingers when manipulating magic.
+**Overview:** A seasoned rogue and former member of the [[Black Lanterns]] stationed in [[Locations/Luvel|Luvel]]. He resides in the upstairs quarters of the _Broken Shillelagh_ bar in the [[Luvel|Shallows district]], operated by [[NPCs/Caldeer|Caldeer]]. On the back of one of his hands he has the [[Black Lanterns|Black Lantern]] symbol of his former [[Black Lanterns|brotherhood]].
 
-* Habits & History: Chain-smokes; loves booze and [Umberdeep](..\The%20Umberdeep%20&%20Underground.md) mushroom tea; works as an informal investigator in [Luvel](..\Locations\Luvel.md) (often following unfaithful spouses to pay rent at the *Broken Shillelagh*). Was personally saved and resettled in [Luvel](..\Locations\Luvel.md) by [Valdemar Potts](..\NPCs\Valdemar%20Potts.md). Left 5 gold pieces hidden in [Valdemar](..\NPCs\Valdemar%20Potts.md)’s [Mivolan](..\Locations\Mivolan.md) journal as a silent tribute to [Belinda](..\NPCs\Belinda%20Potts.md).
+- Appearance & Gear: Wears woven leather lamellar chest armor, tan and dark red robes, scimitar on the left hip, and a customized firearm above it. Has glowing red arcane tattoos on his right hand and fingers when manipulating magic.
 
-Carries a specialized firearm configured to transform into a silent, deployable hand crossbow. Maintains intimate contacts at [The Gilded Rose](..\Locations\Luvel.md) (the goblin sex worker [Nixie](..\Session%20Summaries\2026-11-13.md)) and a history with the Tabaxi smuggler [Rys](..\Session%20Summaries\2026-11-13.md).
+- Habits & History: Chain-smokes; loves booze and [[The Umberdeep & Underground|Umberdeep]] mushroom tea; works as an informal investigator in [[Luvel]] (often following unfaithful spouses to pay rent at the _Broken Shillelagh_). Was personally saved and resettled in [[Luvel]] by [[Valdemar Potts]]. Left 5 gold pieces hidden in [[NPCs/Valdemar Potts|Valdemar]]’s [[Locations/Mivolan|Mivolan]] journal as a silent tribute to [[NPCs/Belinda Potts|Belinda]].
 
-Is being tracked by an unknown woman in [Luvel](..\Locations\Luvel.md).
+Carries a specialized firearm configured to transform into a silent, deployable hand crossbow. Maintains intimate contacts at [[Luvel|The Gilded Rose]] (the goblin sex worker [[2026-11-13|Nixie]]) and a history with the Tabaxi smuggler [[2026-11-13|Rys]]. 
+
+Is being tracked by an unknown woman in [[Locations/Luvel|Luvel]].

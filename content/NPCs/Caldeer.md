@@ -1,1 +1,1 @@
-**Overview:** Operator of the *Broken Shillelagh* bar, located in the [Shallows](..\Locations\Luvel.md) (port district) of [Luvel](..\Locations\Luvel.md). Landlord, fence (middleman who knowingly buys stolen goods and resells them for profit), and associate of [Thresher](..\PCs\Thresher.md).
+**Overview:** Operator of the _Broken Shillelagh_ bar, located in the [[Locations/Luvel|Shallows]] (port district) of [[Luvel]]. Landlord, fence (middleman who knowingly buys stolen goods and resells them for profit), and associate of [[Thresher]].
