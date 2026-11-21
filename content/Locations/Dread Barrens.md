@@ -5,4 +5,4 @@ Overview: Scorching desert near [[Locations/Luvel|Luvel]].
 
 >[!quote] Patryk [[Session Summaries/2026-10-30|Session 0]] 
 >
-"The best way to get to [[Locations/Mivolan|Mivolan]] would be taking a ship instead of traveling through the [[Dread Barrens]] and dealing with all the wilderness of [[Locations/Mivolan|Mivolan]]"
+>"The best way to get to [[Locations/Mivolan|Mivolan]] would be taking a ship instead of traveling through the [[Dread Barrens]] and dealing with all the wilderness of [[Locations/Mivolan|Mivolan]]"

@@ -45,4 +45,4 @@
 
 >[!quote] Patryk [[Session Summaries/2026-10-30|Session 0]]
 >
-"Luvel kind of controls that area where the water passage goes through, and that is probably the easiest and quickest way to reach [[Locations/Borgan|Borgan]] all the way from the east."
+>"Luvel kind of controls that area where the water passage goes through, and that is probably the easiest and quickest way to reach [[Locations/Borgan|Borgan]] all the way from the east."

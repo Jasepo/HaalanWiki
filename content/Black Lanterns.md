@@ -4,4 +4,4 @@
 
 > [!quote] The Lantern's Code
 > 
-> "When members fall in the field, the brotherhood prioritizes recovering them, even if only for their remains, to ensure a proper burial. No one is left behind."
+>"When members fall in the field, the brotherhood prioritizes recovering them, even if only for their remains, to ensure a proper burial. No one is left behind."
