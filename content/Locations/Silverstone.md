@@ -4,4 +4,6 @@
 * **Reputation:** To outsiders, the settlement and its people are often viewed as a dark, shady, and mysterious organization.
 * **[The Brasswright Guild](..\The%20Brasswright%20Guild.md):** Hosts one of the most prominent chapters of the [guild](..\The%20Brasswright%20Guild.md), likely providing the necessary tools, weapons, and engineering support to hold the mountain line.
 
-"[Black Lanterns](..\Black%20Lanterns.md) don't really go to [Borgan](Borgan.md) or [Drabasha](Drabasha.md) much, because there's really no work for them there... most of their real work is in the mountain ranges, and through into the [Umberdeep](..\The%20Umberdeep%20&%20Underground.md)." — Patryk ([Session 0](..\Session%20Summaries\2026-10-30.md))
+ > 
+ > \[!quote\] Patryk [Session 0](..\Session%20Summaries\2026-10-30.md)
+ > "[Black Lanterns](..\Black%20Lanterns.md) don't really go to [Borgan](Borgan.md) or [Drabasha](Drabasha.md) much, because there's really no work for them there... most of their real work is in the mountain ranges, and through into the [Umberdeep](..\The%20Umberdeep%20&%20Underground.md)."

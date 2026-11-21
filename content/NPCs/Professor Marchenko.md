@@ -2,6 +2,8 @@
 
 * **The Automaton "Pip":** Marchenko is the creator of "Pip," a unique, animated six-legged brass automaton.
 
-* **Alliance with Corben:** He is one of the few allies in the guild who believes in [Corben](..\PCs\Corben%20Wigglehand.md)'s innocence. In fact, Marchenko strongly suspects that [Corben](..\PCs\Corben%20Wigglehand.md)'s incident in [Izedel](..\Locations\Izedel.md) was not an accident, but an orchestrated political sabotage against the Crown.
-
 * **Guild Goals:** He is actively working to expand the guild's reach in [Luvel](..\Locations\Luvel.md).
+
+ > 
+ > \[!note\] Alliance with Corben
+ > He is one of the few allies in the guild who believes in [Corben](..\PCs\Corben%20Wigglehand.md)'s innocence. In fact, Marchenko strongly suspects that [Corben](..\PCs\Corben%20Wigglehand.md)'s incident in [Izedel](..\Locations\Izedel.md) was not an accident, but an orchestrated political sabotage against the Crown.

@@ -2,6 +2,10 @@
 
 * **Starting Location:** The adventure begins here in Luvel.
 
+ > 
+ > \[!warning\] The Red Lung Outbreak
+ > The Curlew Dunes Memory Gardens are rapidly expanding to accommodate the rising death toll. The contagious respiratory illness has overwhelmed local healing resources, driving significant growth in the forbidden worship of Velshara.
+
 * **Key Districts:**
   
   * **The Dustward:** Originally the portion of Luvel facing the open desert; poorer construction and blowing sand made it undesirable. Now synonymous with the city's poor quarter (the working-class neighborhoods, workshops, and modest businesses).
@@ -15,8 +19,6 @@
   * **The Stonewall**: The ordinary residential neighborhoods.
   
   * **The Light Ward**: The government offices, ports, civic institutions, and educational facilities. It is home to *The House of the Open Pages*, a modest three-story building marked by blue doors painted with an open book and rising sun. The building features ivy, window flower boxes, a courtyard (with a persistent pigeon problem), a public library, and dormitory cots.
-
-**[Dread Barrens](Dread%20Barrens.md):** Scorching desert near Luvel.
 
 **Balchur Pass:** Major geographic mountain water route controlled by Luvel.
 
@@ -42,4 +44,6 @@
 * **Political Stance:** Politically neutral, maintaining that [Haalan](Haalan.md) is most prosperous when trade and regional stability are preserved.
 * **Geographic Control:** Controls the **Balchur Pass**, a critical mountain water route opening, serving as a primary transit lane across the continental split.
 
-"Luvel kind of controls that area where the water passage goes through, and that is probably the easiest and quickest way to reach [Borgan](Borgan.md) all the way from the east." - Patryk Session 0
+ > 
+ > \[!quote\] Patryk [Session 0](..\Session%20Summaries\2026-10-30.md)
+ > "Luvel kind of controls that area where the water passage goes through, and that is probably the easiest and quickest way to reach [Borgan](Borgan.md) all the way from the east."
