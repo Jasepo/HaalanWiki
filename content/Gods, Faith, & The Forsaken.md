@@ -29,7 +29,7 @@
 - **[[Nhal]] (The Empty God):** The most poorly understood and least known of the Forsaken; accounts conflict and much of its history was deliberately erased following the god's defeat. Sculptures depict a robed humanoid figure with a deliberately damaged face. Scholars suspect it was added later and is not an original deity.
 
 > [!danger] Forbidden Worship
-> The worship of the Three Forsaken (Azrathul, Velshara, Nhal) is strictly forbidden by the Crown and will be severely punished. Despite this, cults like that of Velshara have grown increasingly relevant during the Red Lung crisis.
+> The worship of the Three Forsaken (Azrathul, Velshara, Nhal) is strictly forbidden by the Crown and will be severely punished. Despite this, cults like that of Velshara have grown increasingly relevant during the [[Red Lung]] crisis.
 
 #### The Seventh God Legend
 

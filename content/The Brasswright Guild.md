@@ -18,4 +18,4 @@ Located in the [[Locations/Luvel|Crossways]] of [[Locations/Luvel|Luvel]], the l
 Entering the building requires navigating a rigid bureaucratic intake (Forms A through E) managed by an exhausted [[Character Ancestries & Origins|gnome]] receptionist. 
 
 > [!danger] The Bottomless Pit
-> A massive, unfathomably deep vertical chasm in the guild's cellar descends directly into the [[The Umberdeep & Underground|Umberdeep]]. The party warned [[Professor Marchenko]] of the breach, only to discover he was completely unaware of its existence and the giant rats it attracted.
+> A massive, unfathomably deep vertical chasm in the guild's cellar descends directly into the [[The Umberdeep & Underground|Umberdeep]]. The party warned [[Professor Marchenko]] of the breach, only to discover he was completely unaware of its existence.
